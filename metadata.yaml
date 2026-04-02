@@ -3,4 +3,4 @@ desc: WeChatPadPro 的 Webhook 适配器插件，将消息接收方式从 WebSoc
 help: 请查看 README.md 文件了解详细使用说明
 version: v1.1.0 
 author: AstrBot
-repo: https://github.com/astrbot/astrbot_wechatpadpro_webhook_adapter
+repo: https://github.com/IMZCC/astrbot_wechatpadpro_webhook_adapter
